@@ -1,1 +1,1 @@
-# Diagrams-for-the-exam
+# Explanation for the project
